@@ -18,5 +18,5 @@ Additionally, several python libraries were used such as:
 First of all make sure you have Python installed on your computer. Then access the folder where you store both **.py** and **txt** files from cmd. Next step you have to run the .py file and write down the inputs accordingly:
 
 ```bash
-FaridaAliyevaProject2.py 'Colors.txt'
+FaridaAliyevaProject2.py 'file1.txt'
 ```
